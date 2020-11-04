@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Statements",
+    "children": [
+      {
+        "name": "if"
+      },
+      {
+        "name": "for"
+      },
+      {
+        "name": "switch"
+      }
+    ]
+  },
+  {
+    "name": "Statements",
+    "children": [
+      {
+        "name": "Foo"
+      },
+      {
+        "name": "Bar"
+      }
+    ]
+  }
+]

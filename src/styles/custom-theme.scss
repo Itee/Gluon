@@ -1,0 +1,9 @@
+/* make the customizations */
+$theme-colors: (
+        "info": tomato,
+        "success": purple,
+        "danger": teal
+);
+
+/* import bootstrap to set changes */
+@import "~bootstrap/scss/bootstrap";
